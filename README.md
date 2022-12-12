@@ -8,7 +8,7 @@ Research Scholar and Data Scientist
 * ✉️  You can contact me at [sei@live.in](mailto:sei@live.in)
 
 <a href="https://www.twitter.com/seikarma" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/seikarma?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/DrAmanDarolia?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
