@@ -7,7 +7,7 @@ Research Scholar and Data Scientist
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sei@live.in](mailto:sei@live.in)
 
-<a href="https://www.twitter.com/seikarma" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/DrAmanDarolia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DrAmanDarolia?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
