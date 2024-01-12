@@ -1,6 +1,5 @@
 Hi 👋 My name is Aman Darolia
 =============================
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=amandarolia.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 Research Scholar and Data Scientist
 -----------------------------------
@@ -27,6 +26,7 @@ src="https://img.shields.io/twitter/follow/DrAmanDarolia?logo=twitter&style=for-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/amandarolia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/seikarma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 
 ### Badges
 
